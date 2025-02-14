@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is me.
+title: acerca de mi.
 ---
 
-She/her. A software person. Singapore.
+minimalista•trashumante•
