@@ -6,10 +6,10 @@ tags:
 - hola
 - mundo
 ---
-## ¡Hola!   
+¡Hola!   
 
 Este no es un blog más. Aquí no encontrarás frases grandilocuentes ni promesas vacías. Es un espacio para lo práctico, lo experimental y lo que realmente funciona.   
-
+<!-- excerpt -->
 ###Vamos a hablar de:
 
 + Minimalismo : no como una tendencia, sino como una forma de quitar lo que sobra para dejar espacio a lo que importa.
@@ -21,4 +21,3 @@ Este no es un blog más. Aquí no encontrarás frases grandilocuentes ni promesa
  No hay fórmulas mágicas ni respuestas definitivas. Solo exploración, pruebas y resultados. Si eso te suena bien, quédate.
 
 ### Bienvenido.
-<!-- excerpt -->
