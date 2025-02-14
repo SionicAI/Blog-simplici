@@ -23,7 +23,7 @@ Este no es un blog más. Aquí no encontrarás frases grandilocuentes ni promesa
 ### Bienvenido.
 
 <iframe width="560" height="315" 
-        src="https://www.youtube.com/watch?v=5pu5ZGFWZ98" 
+        src="https://www.youtube.com/embed/5pu5ZGFWZ98" 
         frameborder="0" 
         allowfullscreen>
 </iframe>
