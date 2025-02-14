@@ -21,3 +21,4 @@ Vamos a hablar de:   
 No hay fórmulas mágicas ni respuestas definitivas. Solo exploración, pruebas y resultados. Si eso te suena bien, quédate.   
 
 Bienvenido.
+<!-- excerpt -->
